@@ -1,0 +1,15 @@
+{
+  "files": [
+    "cta_comlaw.csv",
+    "cpa_comlaw.csv"
+  ],
+  "total": 36,
+  "bySource": {
+    "세무사": 18,
+    "공인회계사": 18
+  },
+  "byTopic": {
+    "상법": 36
+  },
+  "errors": []
+}
